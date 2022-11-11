@@ -1,13 +1,16 @@
 
 =======
-# CMPM-121-HW-1
+# CMPM-121-HW-2
 
 ## Description
 
 In this repository, I created a scene where a snowman is refilling their car in a desert rest stop in the middle of nowhere. In the Unity Asset Store, I initially found the snowman asset and knew that I wanted to construct some sort of scene with it. Later, I found an asset pack which contained a bunch of simple dessert assets as well as a racing car asset and I immedietely knew that I wanted to construct a scene of a snowman driving in the desert. I later found a nice bundle of buildings, which contained a gas station that I wanted to include, with the cartoon buildings asset pack, as well as a laptop asset which I included because I thought it might be interesting to include in front of the animal skulls included with the desert pack. The main character in the scene is the snowman, which is also where the 1st person camera lies.
 
+I also added lighting to show more life into my scene. Most notably I added pink headlights to the car to show how fancy the snowman is as well as adding a light in the garage in order to show that there is activity happening there. I also added dust particles that travel throughout the map to add more to the desolate desert aesthetic.
+
 ## Video
-https://youtu.be/Rbs00kOEPAk
+HW-1: https://youtu.be/Rbs00kOEPAk
+Hw-2: 
 
 ## Credits
 Free Low Poly Desert Pack by 23 Space Robots and Counting...: 
