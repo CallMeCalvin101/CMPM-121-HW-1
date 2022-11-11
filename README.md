@@ -10,6 +10,7 @@ I also added lighting to show more life into my scene. Most notably I added pink
 
 ## Video
 HW-1: https://youtu.be/Rbs00kOEPAk
+
 HW-2: https://youtu.be/bDUys6QviA4
 
 ## Credits
